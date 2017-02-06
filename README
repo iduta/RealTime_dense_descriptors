@@ -1,0 +1,17 @@
+This is the source code for the video descriptors (HOG, HOF, MBH, HMG) as presented in these works:
+
+J.R.R. Uijlings, I.C. Duta, E. Sangineto, and N. Sebe 
+"Video Classification with Densely Extracted HOG/HOF/MBH Features:   An Evaluation of the Accuracy/Computational Efficiency Trade-off"
+In International Journal of Multimedia Information Retrieval (IJMIR), 2015.
+
+I.C. Duta, J.R.R. Uijlings, T.A. Nguyen, K. Aizawa, A.G. Hauptmann, B. Ionescu, N. Sebe 
+"Histograms of Motion Gradients for Real-time Video Classification"
+In International Workshop on Content-based Multimedia Indexing (CBMI), 2016.
+
+
+In "demo.m" there is an example of using these descriptors.
+Please cite our work when using this code!
+
+
+Ionut Cosmin Duta dutaionutcosmin@gmail.com
+Jasper Uijlings jrr.uijlings@gmail.com
